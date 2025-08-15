@@ -234,10 +234,11 @@ tour-travel-website/
 ---
 
 ## Sample Timeline
-- **Week 1**: Setup project, create static homepage with HTML/CSS/Bootstrap, and design wireframes.
-- **Week 2**: Implement React, add components, and set up navigation with React Router.
-- **Week 3**: Add interactivity (forms, filters, carousels) and animations (GSAP/Framer Motion).
-- **Week 4**: Test, optimize, deploy, and prepare documentation/presentation.
+- **Day 1**: Setup project, create static homepage with HTML/CSS/Bootstrap, and design wireframes.
+- **Day 3**: Implement React, add components, and set up navigation with React Router.
+- **Day 4**: Add interactivity (forms, filters, carousels) and animations (GSAP/Framer Motion).
+- **Day 6**: Test, optimize, deploy, and prepare documentation/presentation.
+- **15/08/2025 to 22/08/2025**
 
 ---
 
@@ -251,5 +252,4 @@ tour-travel-website/
 - **Avoid**: Generic Bootstrap templates without customization. Add your own styling and animations to stand out.
 
 ---
-
-This task is designed to be engaging, educational, and challenging, pushing students to combine multiple technologies while fostering creativity. By following the guidelines and using the provided resources, students will create a professional, interactive, and animated Tour and Travel website that showcases their frontend development skills.
+**All The Best**
